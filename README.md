@@ -2,9 +2,9 @@
 Bu repo [kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo.
 
 ## Installation
-'''
+```
 git clone https://github.com/serhattklnc/kodluyoruzilkrepo.git
-'''
+```
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
