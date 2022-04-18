@@ -7,6 +7,9 @@ git clone https://github.com/serhattklnc/kodluyoruzilkrepo.git
 ```
 
 # Usage
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+
+Linux için:
 ```
 cd kodluyoruzilkrepo
 code .
@@ -22,4 +25,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ---
 ![kodluyoruz](https://cdn.sanity.io/images/9kdepi1d/production/65c832d202a503b15d99e628f4313782f3ef50db-300x62.png)
 
-[Ziyaret etmek için tıklayınız](https://www.patika.dev/tr)
+[Patika.dev Ziyaret etmek için tıklayınız](https://www.patika.dev/tr)
